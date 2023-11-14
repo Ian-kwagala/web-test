@@ -1,0 +1,75 @@
+.confirm button{
+    background-color: blue;
+    size: 100px;
+}
+#h4{
+    text-align: end;
+    align-items: end;
+}
+.bi .bi-facebook{
+    color: blue;
+}
+.button{
+    background-color: blue;
+}
+.navbar navbar-expand-lg bg-body-tertiary{
+    justify-content: space-between;
+    
+}
+.sidenav{
+    height: 100%;
+    width: 250px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    padding-top:50px;
+}
+.sidenav a{
+    padding: 20px 20px;
+    display: block;
+    
+}
+.bg{
+    display: flex;
+}
+#navBar{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    right: 0;
+    margin-left: 200px;
+    padding: 15px 20px;
+}
+.card-title{
+    color: blue;
+}
+.nav{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.sr{
+    display: flex;
+    align-items: center;
+    width: 20%;
+}
+.d-flex{
+    margin-left: 10px;
+    background-color: grey;
+}
+.rg{
+    display: flex;
+    justify-content: space-between;
+    width: 10%;
+}
+.hd{
+    align-items: center;
+}
+.md{
+    width: 40%;
+    display: flex;
+    justify-content: space-between;
+}
