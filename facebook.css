@@ -1,74 +1,95 @@
-.confirm button{
+.confirm button {
     background-color: blue;
     size: 100px;
 }
-#h4{
+
+#h4 {
     text-align: end;
     align-items: end;
 }
-.bi .bi-facebook{
+
+.bi .bi-facebook {
     color: blue;
 }
-.button{
+
+.button1 {
     background-color: blue;
+    width: 100%;
 }
-.navbar navbar-expand-lg bg-body-tertiary{
+
+.button2 {
+    width: 100%;
+}
+
+.navbar navbar-expand-lg bg-body-tertiary {
     justify-content: space-between;
-    
+
 }
-.sidenav{
+
+.sidenav {
     height: 100%;
     width: 250px;
     position: fixed;
     z-index: 1;
     top: 0;
     left: 0;
-    padding-top:50px;
+    padding-top: 50px;
 }
-.sidenav a{
+
+.sidenav a {
     padding: 20px 20px;
     display: block;
-    
+
 }
-.bg{
+
+.bg {
     display: flex;
 }
-#navBar{
+
+#navBar {
     display: flex;
     justify-content: space-between;
 }
-.card{
+
+.card {
     right: 0;
     margin-left: 200px;
     padding: 15px 20px;
 }
-.card-title{
+
+.card-title {
     color: blue;
 }
-.nav{
+
+.nav {
     display: flex;
     justify-content: space-between;
     width: 100%;
 }
 
-.sr{
+.sr {
     display: flex;
     align-items: center;
     width: 20%;
 }
-.d-flex{
+
+.d-flex {
     margin-left: 10px;
-    background-color: grey;
 }
-.rg{
+
+.rg {
     display: flex;
     justify-content: space-between;
     width: 10%;
 }
-.hd{
+
+.hd {
     align-items: center;
+    display: flex;
+    justify-content: space-between;
 }
-.md{
+
+.md {
     width: 40%;
     display: flex;
     justify-content: space-between;
